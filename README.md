@@ -17,10 +17,6 @@ This was more of a curiosity and fun project for me, I haven't expanded the appl
 ![Blockdiagram](blockdiagram.png)
 
 
-### Working Demo:
-Check LiFiworking.mp4
-<video controls src="LiFiworking.mp4" title="Title"></video>
-
 #### Note :
 - The project demonstrates one way transmission. 
 
