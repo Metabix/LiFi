@@ -18,7 +18,6 @@ This was more of a curiosity and fun project for me, I haven't expanded the appl
 
 
 
-
 #### Note :
 - The project demonstrates one way transmission. 
 
@@ -26,3 +25,6 @@ This was more of a curiosity and fun project for me, I haven't expanded the appl
 - Add two way communication
 - Use Color Filters for immproving the range
 - Transmit video
+
+### Working Demo:
+<video controls src="LiFi working.mp4" title="Title"></video>
